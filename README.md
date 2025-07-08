@@ -1,5 +1,5 @@
 # Monotonic Evolution Reinforcement Learning
-This work has been accepted in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+This work has been accepted in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).  
 This work implements a monotonic evolution reinforcement learning approach for traffic control using VISSIM traffic simulation software. The algorithm ensures policy improvement through statistical confidence bounds on performance.
 
 ## Project Structure
