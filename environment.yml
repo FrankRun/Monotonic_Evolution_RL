@@ -1,0 +1,18 @@
+name: monotonic_evolution_rl
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.8
+  - numpy=1.19.2
+  - scipy=1.7.3 
+  - pytorch=1.8.1
+  - pip=21.1.2
+  - pip:
+    - pywin32==303
+    - matplotlib==3.4.2
+    - tqdm==4.61.0
