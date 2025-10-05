@@ -1,6 +1,6 @@
 # Monotonic Evolution Reinforcement Learning
-:smile: This work has been accepted in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).  
-:rocket: This work implements a novel Reinforcement Learning (RL) approach for autonomous driving with monotonic evolution capability. The algorithm ensures continuous policy improvement with a high confidence guarantee.
+:smile: **This work has been accepted in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**.  
+:rocket: **This work implements a novel Reinforcement Learning (RL) approach for autonomous driving with monotonic evolution capability. The algorithm ensures continuous policy improvement with a high confidence guarantee.**
 
 ## Highlight
 - Monotonic performance enhancement by high confidence policy improvement
@@ -54,6 +54,7 @@ The default hyperparameters can be found in `main.py`. You can customize:
 - `--gamma`: Discount factor for future rewards
 - `--hidden_width`: Width of hidden layers in networks
 - And many other PPO-specific parameters
+
 
 
 
