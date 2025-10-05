@@ -1,6 +1,6 @@
 # Monotonic Evolution Reinforcement Learning
 This work has been accepted in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).  
-This work implements a monotonic evolution reinforcement learning approach for traffic control using VISSIM traffic simulation software. The algorithm ensures policy improvement through statistical confidence bounds on performance.
+This work implements a novel Reinforcement Learning (RL) approach for autonomous driving with monotonic evolution. The algorithm ensures continuous policy improvement with a high confidence guarantee.
 
 ## Project Structure
 
@@ -49,3 +49,4 @@ The default hyperparameters can be found in `main.py`. You can customize:
 - `--gamma`: Discount factor for future rewards
 - `--hidden_width`: Width of hidden layers in networks
 - And many other PPO-specific parameters
+
